@@ -41,6 +41,7 @@ namespace EaApplicationTest.Pages
             MONITOR,
             PERIPHERALS,
             EXTERNAL,           
+            KEYBOARD,
         }
         
     }
