@@ -40,9 +40,8 @@ namespace EaApplicationTest.Pages
             CPU, 
             MONITOR,
             PERIPHERALS,
-            EXTERNAL,
-            MOUSE,
+            EXTERNAL,           
         }
-        // new text added in c1 branch //adding to d1 branch
+        
     }
 }
