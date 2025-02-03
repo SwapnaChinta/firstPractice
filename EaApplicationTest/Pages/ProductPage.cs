@@ -40,7 +40,8 @@ namespace EaApplicationTest.Pages
             CPU, 
             MONITOR,
             PERIPHERALS,
-            EXTERNAL,           
+            EXTERNAL,     
+            KEYBOARD,
         }
         
     }
