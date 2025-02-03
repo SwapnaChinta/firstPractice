@@ -42,6 +42,6 @@ namespace EaApplicationTest.Pages
             PERIPHERALS,
             EXTERNAL,
         }
-        // new text added in c1 branch
+        // new text added in c1 branch //adding to d1 branch
     }
 }
