@@ -41,6 +41,7 @@ namespace EaApplicationTest.Pages
             MONITOR,
             PERIPHERALS,
             EXTERNAL,
+            MOUSE,
         }
         // new text added in c1 branch //adding to d1 branch
     }
